@@ -95,21 +95,19 @@ class MohamedKamel {
 </a>
 
 </p>
-
+  
 ---
 
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="www.linkedin.com/in/mohamed-kamel-a95a903a7">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 
-  <a href="mailto:YOUR_EMAIL">
+
+  <a href="mkmohamedkamel924@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
   </a>
 </p>
