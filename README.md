@@ -10,15 +10,13 @@
 <br>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="www.linkedin.com/in/mohamed-kamel-a95a903a7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ 
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mkmohamedkamel924@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -26,8 +24,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-```dart
 class MohamedKamel {
   String role = "Flutter Developer";
   
@@ -109,6 +105,11 @@ class MohamedKamel {
 
   <a href="mkmohamedkamel924@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+  </a>
+</p>
+
+ <a href="https://leafy-pithivier-155f86.netlify.app/">
+    <img src="https://img.icons8.com/color/48/Portoflio.png" width="48"/>
   </a>
 </p>
 
